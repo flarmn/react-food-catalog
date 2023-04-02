@@ -16,6 +16,14 @@ nav{
   padding: 0 1 rem;
 }
 
+nav .brand-logo {
+  font-size: 2em !important;
+}
+
+.brand-logo{
+  margin-left: 20px;
+}
+
 .content {
   min-height: calc(100vh - 70px - 64px);
   padding: 1.5rem 0;
